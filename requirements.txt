@@ -1,6 +1,0 @@
-langchain
-python-dotenv
-langchain-community
-langchain-groq
-streamlit
-ipykernel
